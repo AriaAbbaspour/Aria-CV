@@ -235,7 +235,7 @@ body.dark .timeline-item h3 {
 }
 
 .timeline-item p {
-    color: #666;
+    color: #666666;
     font-size: 0.95em;
     font-family: 'Open Sans', sans-serif;
     font-weight: 400;
@@ -247,7 +247,7 @@ body.dark .timeline-item p {
 }
 
 .timeline-item a {
-    color: #4b5563;
+    color: #5c3b80;
     text-decoration: none;
     font-family: 'Open Sans', sans-serif;
     font-weight: 400;
