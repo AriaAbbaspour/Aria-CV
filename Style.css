@@ -168,7 +168,7 @@ body.dark section {
 h2 {
     font-size: 1.9em;
     margin-bottom: 20px;
-    color: #4b5563;
+    color: #402a5a;
     font-family: 'Roboto', sans-serif;
     font-weight: 500;
     display: flex;
@@ -193,7 +193,7 @@ body.dark h2 {
     top: 0;
     bottom: 0;
     width: 4px;
-    background: #4b5563;
+    background: #402a5a;
     transition: background 0.3s ease;
 }
 
@@ -276,7 +276,7 @@ body.dark .skill-card, body.dark .language-card {
 
 .skill-card:hover, .language-card:hover {
     transform: translateY(-5px);
-    box-shadow: 0 6px 15px rgba(0,0,0,0.2);
+    box-shadow: 0 6px 15px rgba(87, 19, 126, 0.2);
 }
 
 body.dark .skill-card:hover, body.dark .language-card:hover {
@@ -285,7 +285,7 @@ body.dark .skill-card:hover, body.dark .language-card:hover {
 
 .skill-card i, .language-card i {
     font-size: 2em;
-    color: #4b5563;
+    color: #402a5a;
     margin-bottom: 10px;
     transition: color 0.3s ease;
 }
@@ -326,7 +326,7 @@ body.dark .card {
 
 .card:hover {
     transform: translateY(-5px);
-    box-shadow: 0 6px 15px rgba(0,0,0,0.2);
+    box-shadow: 0 6px 15px rgba(74, 13, 100, 0.2);
 }
 
 body.dark .card:hover {
@@ -335,7 +335,7 @@ body.dark .card:hover {
 
 .card i {
     font-size: 1.8em;
-    color: #4b5563;
+    color: #402a5a;
     margin-bottom: 10px;
     transition: color 0.3s ease;
 }
