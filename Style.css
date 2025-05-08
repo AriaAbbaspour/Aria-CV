@@ -183,13 +183,13 @@ body.dark h2 {
 
 .timeline {
     position: relative;
-    padding-left: 40px;
+    padding-left: 25px;
 }
 
 .timeline::before {
     content: '';
     position: absolute;
-    left: 20px;
+    left: 10px;
     top: 0;
     bottom: 0;
     width: 4px;
@@ -207,19 +207,7 @@ body.dark .timeline::before {
 }
 
 .timeline-item::before {
-    content: '';
-    position: absolute;
-    left: -36px;
-    top: 10px;
-    width: 12px;
-    height: 12px;
-    background: #4b5563;
-    border-radius: 50%;
-    transition: background 0.3s ease;
-}
-
-body.dark .timeline-item::before {
-    background: #bb86fc;
+    content: none;
 }
 
 .timeline-item h3 {
